@@ -1,0 +1,208 @@
+.leftside,.rightside{
+    height: 100vh;
+    width: 100%;
+}
+.leftside{
+    background: white;
+
+}
+.rightside{
+    background: white;
+}
+.title{
+    font-style: normal;
+    font-weight: bolder;
+    font-family: sans-serif;
+    padding: 0 90px;
+    text-align: left;
+    color: rgb(66, 66, 66);
+}
+.prdctdes{
+    font-family: serif;
+    color:rgba(63, 63, 63, 0.705);
+    text-align: left;
+    padding: 0 90px;
+}
+.des{
+    font-family: Arial,Helvetica, sans-serif;
+    color: rgb(95, 95, 95);
+    text-align: left;
+    padding:0 90px; 
+}
+.form{
+    padding: 0px;
+    margin: 0px;
+        
+}
+::placeholder{
+    color: black;
+}
+.hi{
+    position: inherit;
+    padding: 0 22px;
+    top:-37px;
+    color: black;
+    width: 450px; 
+    line-height: 40px;
+    height: 40px;
+    border-radius: 6px;
+    left: 200px;
+    outline: none;
+    margin: 5px;
+    background-color: gray;
+}
+.firstname{
+    position: inherit ; 
+    left: 200px;
+    top:-37px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    margin: 5px;
+    background-color: gray;
+    
+}
+.lastname{
+    position: inherit ; 
+    left: 200px;
+    top:-37px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    margin: 0px;
+    width: 220px;
+    background-color: gray;
+    
+}
+.business{
+    
+        position: inherit ; 
+        left: 200px;
+        top:-37px;
+        line-height: 40px;
+        border-radius: 6px;
+        padding: 0 22px;
+        font-size: 16px;
+        width: 450px;
+        border:none;
+        margin: 5px;
+        background-color: gray;
+}
+.company{
+    position: inherit ; 
+    left: 200px;
+    top:-37px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    margin: 5px;
+    border: none;
+    background-color: gray;
+}
+.bsphone{
+    position: inherit ; 
+    left: 200px;
+    top:-37px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    width: 220px;
+    background-color: gray;
+}
+.joblevel{
+    position: inherit;
+    padding: 0 22px;
+    top:-37px;
+    color: black;
+    width: 450px; 
+    line-height: 40px;
+    height: 40px;
+    border-radius: 6px;
+    left: 200px;
+    background-color: gray;
+    margin: 5px;
+}
+.department{
+    position: inherit;
+    padding: 0 22px;
+    top:-37px;
+    color: black;
+    width: 450px; 
+    line-height: 40px;
+    height: 40px;
+    border-radius: 6px;
+    left: 200px;
+    margin: 5px;
+    background-color: gray;
+}
+.jobfunction{
+    position: inherit;
+    padding: 0 22px;
+    top:-37px;
+    color: black;
+    width: 450px; 
+    line-height: 40px;
+    height: 40px;
+    border-radius: 6px;
+    left: 200px;
+    background-color: gray;
+}
+.country{
+    position: inherit;
+    padding: 0 22px;
+    top:-37px;
+    color: black;
+    width: 225px; 
+    line-height: 40px;
+    height: 40px;
+    border-radius: 6px;
+    left: 200px;
+    margin: 5px;
+    background-color: gray;
+}
+.stateprovince{
+    position: inherit;
+    padding: 0 22px;
+    top:-37px;
+    color: black;
+    width: 220px; 
+    line-height: 40px;
+    height: 40px;
+    border-radius: 6px;
+    left: 200px;
+    background-color: gray;
+}
+.comments{
+    padding: 20px;
+    width: 450px;
+    height: 80px;
+    margin: 5px;
+    background-color: gray;
+}
+.intrested{
+    position: inherit;
+    padding: 0 22px;
+    top:-37px;
+    color: black;
+    width: 450px; 
+    line-height: 40px;
+    height: 40px;
+    border-radius: 6px;
+    left: 200px;
+    margin: 2px;
+    background-color: gray;
+}
+
+
+
+
